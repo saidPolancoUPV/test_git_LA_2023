@@ -1,3 +1,1 @@
-este es el archivo 3
-
-esta es otra linea
+ya no quiero el contenido de este archivo
